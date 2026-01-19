@@ -9,7 +9,11 @@ This project was developed as part of iOS training and demonstrates real-world u
 
 ## 🎥 App Demo
 
-[![Watch the demo](screenshots/tareas.png)](https://www.youtube.com/shorts/8zAqaCZccWQ)
+<p align="center">
+  <a href="https://www.youtube.com/shorts/8zAqaCZccWQ">
+    <img src="screenshots/tareas.png" width="360"/>
+  </a>
+</p>
 
 ### Demo includes:
 - Selecting a place on the map
