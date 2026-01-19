@@ -32,13 +32,8 @@ Add screenshots inside a `screenshots/` folder and link them here:
 ## 📸 Screenshots
 
 ### Map View
-![Map View](screenshots/map.png)
+![Map View](screenshots/Pantalla principal.png)
 
 ### Save Favorite
-![Save Favorite](screenshots/save_place.png)
+![Save Favorite](screenshots/tareas.png)
 
-### Favorites List
-![Favorites List](screenshots/favorites_list.png)
-
-### Navigate to Favorite
-![Navigate to Favorite](screenshots/navigate.png)
