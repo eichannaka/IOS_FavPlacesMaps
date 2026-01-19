@@ -46,16 +46,3 @@ This project follows a **simple and clean structure**, designed to keep the code
 Models represent the core data of the app, views handle user interface and interactions, and reusable UI components are separated to improve organization and maintainability.
 
 
-### Project Structure
-
-FavPlacesMaps
-├── Components
-│ └── CustomDialog
-├── FavPlaces
-│ ├── model
-│ │ └── Place.swift
-│ └── FavPlacesView
-├── Assets
-├── FavPlacesMapsApp
-├── FavPlacesMapsTests
-└── FavPlacesMapsUITests
