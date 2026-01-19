@@ -9,7 +9,7 @@ This project was developed as part of iOS training and demonstrates real-world u
 
 ## 🎥 App Demo
 
-[![Watch the demo](tareas.png)](https://www.youtube.com/shorts/8zAqaCZccWQ)
+[![Watch the demo](screenshots/tareas.png)](https://www.youtube.com/shorts/8zAqaCZccWQ)
 
 ### Demo includes:
 - Selecting a place on the map
