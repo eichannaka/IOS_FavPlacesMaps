@@ -28,7 +28,7 @@ This project was developed as part of iOS training and demonstrates real-world u
 
 <h3>Map View</h3>
 <p>
-  <img src="screenshots/Pantalla%20principal.png" width="300"/>
+  <img src="screenshots/PantallaPrincipal.png" width="300"/>
 </p>
 
 <h3>Save Favorite</h3>
