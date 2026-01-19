@@ -7,9 +7,9 @@ This project was developed as part of iOS training and demonstrates real-world u
 
 ---
 
-## 🎥 App Demo (YouTube)
+## 🎥 App Demo
 
-[![Ver demo en YouTube](https://youtu.be/YOUR_VIDEO_ID](https://youtube.com/shorts/8zAqaCZccWQ?feature=share))
+[![Watch the demo](tareas.png)](https://www.youtube.com/shorts/8zAqaCZccWQ)
 
 ### Demo includes:
 - Selecting a place on the map
