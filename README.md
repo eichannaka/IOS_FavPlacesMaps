@@ -24,16 +24,16 @@ This project was developed as part of iOS training and demonstrates real-world u
 
 ---
 
-## 📱 Screenshots
-
-Add screenshots inside a `screenshots/` folder and link them here:
-
-```md
 ## 📸 Screenshots
 
-### Map View
-![Map View](screenshots/Pantalla principal.png)
+<h3>Map View</h3>
+<p>
+  <img src="screenshots/Pantalla%20principal.png" width="300"/>
+</p>
 
-### Save Favorite
-![Save Favorite](screenshots/tareas.png)
+<h3>Save Favorite</h3>
+<p>
+  <img src="screenshots/tareas.png" width="300"/>
+</p>
+
 
